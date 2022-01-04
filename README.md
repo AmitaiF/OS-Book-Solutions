@@ -1,4 +1,4 @@
-# OS Books Solutions
+# OS Book Solutions
  Solutions to Barak Gonen's OS book.  
  Current state:
 - [x] Chapter 1
