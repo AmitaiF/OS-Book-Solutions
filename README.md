@@ -1,5 +1,5 @@
 # OS Book Solutions
- Solutions to Barak Gonen's OS book.  
+ Solutions to Barak Gonen's OS book (https://data.cyber.org.il/os/os_book.pdf).  
  Current state:
 - [x] Chapter 1
 - [x] Chapter 2
