@@ -1,0 +1,8 @@
+﻿  mydll.cpp
+     Creating library C:\Users\Amitai Farber\Desktop\קבצים\פרויקטים\תכנות\OS Book Solutions\Chapter 8\MyDll\Release\MyDll.lib and object C:\Users\Amitai Farber\Desktop\קבצים\פרויקטים\תכנות\OS Book Solutions\Chapter 8\MyDll\Release\MyDll.exp
+  Generating code
+  3 of 6 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyDll.vcxproj -> C:\Users\Amitai Farber\Desktop\קבצים\פרויקטים\תכנות\OS Book Solutions\Chapter 8\MyDll\Release\MyDll.dll
