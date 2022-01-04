@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+C:\Users\Amitai Farber\Desktop\קבצים\פרויקטים\תכנות\OS Book Solutions\Chapter 9\IAT Hooking\IAT Hooking\dllmain.cpp(119,93): warning C4229: anachronism used: modifiers on data are ignored
+C:\Users\Amitai Farber\Desktop\קבצים\פרויקטים\תכנות\OS Book Solutions\Chapter 9\IAT Hooking\IAT Hooking\dllmain.cpp(132,98): warning C4229: anachronism used: modifiers on data are ignored
+  IAT Hooking.vcxproj -> C:\Users\Amitai Farber\Desktop\קבצים\פרויקטים\תכנות\OS Book Solutions\Chapter 9\IAT Hooking\Debug\IAT Hooking.dll
